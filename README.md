@@ -1,4 +1,4 @@
-# —͟͞★ About Me:
+# —͟͞★ Mukesh Ahirwar
 🚀 I’m currently working on AI-powered apps & full-stack projects  <br>🤝 Looking to collaborate on open-source & innovative tech ideas  <br>🛠 Need help with system design & scalable architectures  <br>🌱 Learning Deep RL & advanced backend systems  <br>💬 Ask me about DSA, ML, and React  <br>⚡ Fun fact: Solved 900+ DSA problems 🚀
 
 
